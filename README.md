@@ -6,6 +6,8 @@ I'm a freelance/hobbyist developer based out of Columbia, South Carolina, USA! I
 
 I'm also super lucky to be a part of the moderation team for [CodeSupport](https://staging.codesupport.dev/), check out our [GitHub](https://github.com/codesupport)!
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saramaebee)](https://github.com/anuraghazra/github-readme-stats)
+
 As I build some portfolio projects, I'll keep adding them below:
 
 ## My Projects
