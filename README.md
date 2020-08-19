@@ -4,7 +4,7 @@ I'm Sara! (she/they)
 
 I'm a freelance/hobbyist developer based out of Columbia, South Carolina, USA! I'm also a Cybersecurity major @ UOPX.
 
-I'm also super lucky to be a part of the moderation team for [CodeSupport](https://staging.codesupport.dev/), check out our [GitHub](https://github.com/codesupport)!
+I'm also super lucky to be a part of the moderation team for [CodeSupport](https://codesupport.dev/), check out our [GitHub](https://github.com/codesupport)!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saramaebee)](https://github.com/anuraghazra/github-readme-stats)
 
