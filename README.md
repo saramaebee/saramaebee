@@ -2,7 +2,7 @@
 
 I'm Sara! (she/they)
 
-I'm a freelance/hobbyist developer based out of Columbia, South Carolina, USA! I'm also a Cybersecurity major @ UOPX.
+I'm a developer based out of Columbia, South Carolina, USA, working for a company called Quickdraw! I'm also a Cybersecurity major @ UOPX.
 
 I'm also super lucky to be a part of the moderation team for [CodeSupport](https://codesupport.dev/), check out our [GitHub](https://github.com/codesupport)!
 
