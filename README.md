@@ -21,6 +21,17 @@ As I build some portfolio projects, I'll keep adding them below:
 ### [chromium-pickle-ts](https://github.com/saramaebee/chromium-pickle-ts)
 > While doing some contracted work that involved the `electron-builder` package source code, I noticed that even though the project was in Typescript, they either _had_ to import [chromium-pickle-ts](https://github.com/electron/node-chromium-pickle-js/) as if it were a JS project, or they didn't feel like writing a declaration file for it (not that I blame them!😛). I figured this would be a fun project, and it was!
 
+## Projects I Contribute(d) to
+
+### [CodeSupport Discord Bot](https://github.com/codesupport/discord-bot)
+> This Discord bot uses Discord.js and TypeScript. It is a fantastic addition to the CodeSupport Discord Server.
+
+### [GameMaker Discord Bot](https://christopherwk210.github.io/gm-bot/#/)
+> GMBot has tons of really neat features that help the GameMaker Discord server run as smoothly as it does.
+
+### [Asarmor](https://github.com/sleeyax/asarmor/)
+> Asarmor is an npm package that allows the blocking of extraction for Electron Asar archives. I did the TypeScript conversion
+
 <!--
 **saramaebee/saramaebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
