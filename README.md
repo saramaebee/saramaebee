@@ -16,9 +16,12 @@ As I build some portfolio projects, I'll keep adding them below:
 > This is absolutely a WIP, because it's the project I'm using to learn Ruby on Rails. It might take me a minute, and I can't guarantee that I'm doing everything right, it may even involve some complete rewrites, but I've learned a lot from it!
 
 #### Technologies
-- Ruby on Rails
+- ~~Ruby on Rails
 - React
-- PostgreSQL
+- TypeScript
+- Material-UI
+- Express
+- ~~PostgreSQL
 
 ### [Quote Generator App](https://saramaebee-fcc-quotes-app.netlify.app/)
 > This was a really fun project, that I completed right after I learned React. I got to learn a lot about the fetch API, and about React obviously!
