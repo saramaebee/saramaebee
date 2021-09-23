@@ -28,8 +28,12 @@ For some reason, I'm running into an issue with GCP where the website is loading
 ### [Quote Generator App](https://saramaebee-fcc-quotes-app.netlify.app/)
 > This was a really fun project, that I completed right after I learned React. I got to learn a lot about the fetch API, and about React obviously!
 
+[GCP ISSUE BACKUP LINK](https://saramaebee-fcc-quotes-app.netlify.app/)
+
 ### [Markdown Previewer](https://saramaebee-fcc-markdown-previewer.netlify.app/)
 > Adding on to my React abilities, I decided to make my own markdown viewer using `marked.js`! I put a lot more effort into structuring this project correctly compared to the quote generator, which I'm planning to redo entirely soon.
+
+[GCP ISSUE BACKUP LINK](https://saramaebee-fcc-markdown-previewer.netlify.app/)
 
 ### [chromium-pickle-ts](https://github.com/saramaebee/chromium-pickle-ts)
 > While doing some contracted work that involved the `electron-builder` package source code, I noticed that even though the project was in Typescript, they either _had_ to import [chromium-pickle-ts](https://github.com/electron/node-chromium-pickle-js/) as if it were a JS project, or they didn't feel like writing a declaration file for it (not that I blame them!😛). I figured this would be a fun project, and it was!
