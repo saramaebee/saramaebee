@@ -15,6 +15,8 @@ As I build some portfolio projects, I'll keep adding them below:
 ### [Blog/Portfolio Site](https://saratonin.dev)
 > This is absolutely a WIP, because it's the project I'm using to learn Ruby on Rails. It might take me a minute, and I can't guarantee that I'm doing everything right, it may even involve some complete rewrites, but I've learned a lot from it!
 
+For some reason, I'm running into an issue with GCP where the website is loading blank. Here's the [Service on AppEngine](https://saratonin-dev.uc.r.appspot.com/) in the meantime :D
+
 #### Technologies
 - ~~Ruby on Rails
 - React
