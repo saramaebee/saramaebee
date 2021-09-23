@@ -18,12 +18,12 @@ As I build some portfolio projects, I'll keep adding them below:
 For some reason, I'm running into an issue with GCP where the website is loading blank. Here's the [Service on AppEngine](https://saratonin-dev.uc.r.appspot.com/) in the meantime :D
 
 #### Technologies
-- ~~Ruby on Rails
+- ~~Ruby on Rails~~
 - React
 - TypeScript
 - Material-UI
 - Express
-- ~~PostgreSQL
+- ~~PostgreSQL~~
 
 ### [Quote Generator App](https://saramaebee-fcc-quotes-app.netlify.app/)
 > This was a really fun project, that I completed right after I learned React. I got to learn a lot about the fetch API, and about React obviously!
