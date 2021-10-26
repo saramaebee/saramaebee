@@ -1,8 +1,8 @@
 # Hi there 👋
 
-I'm Sara! (she/they)
+I'm Sara! (they/them)
 
-I'm a developer based out of Columbia, South Carolina, USA, working in the mortgage industry! I'm also a Cybersecurity major @ UOPX.
+I'm a developer based out of Columbia, South Carolina, USA! I'm also a Cybersecurity major @ UOPX.
 
 I'm also super lucky to be a part of the moderation team for [CodeSupport](https://codesupport.dev/), check out our [GitHub](https://github.com/codesupport)!
 
@@ -48,18 +48,3 @@ As I build some portfolio projects, I'll keep adding them below:
 
 ### [Asarmor](https://github.com/sleeyax/asarmor/)
 > Asarmor is an npm package that allows the blocking of extraction for Electron Asar archives. I did the TypeScript conversion
-
-<!--
-**saramaebee/saramaebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
