@@ -12,6 +12,12 @@ As I build some portfolio projects, I'll keep adding them below:
 
 ## My Projects
 
+### Advent of Code
+
+Rust: https://github.com/saramaebee/advent_of_code
+
+Haskell: https://github.com/saramaebee/aoc2021hs
+
 ### [Blog/Portfolio Site](https://saratonin.dev)
 > This is absolutely a WIP, because it's the project I'm using to learn Ruby on Rails. It might take me a minute, and I can't guarantee that I'm doing everything right, it may even involve some complete rewrites, but I've learned a lot from it!
 
