@@ -15,6 +15,8 @@ As I build some portfolio projects, I'll keep adding them below:
 
 ### [SMSpotifY](https://github.com/SMSpotifY/SMSpotifY)
 
+Technologies: Python, Flask
+
 Before Spotify added this feature natively, I craved a way to let my friends queue songs on my spotify when throwing dinner parties. SMSpotifY was my answer.
 
 ### Advent of Code
