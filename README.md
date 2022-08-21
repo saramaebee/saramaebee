@@ -13,6 +13,10 @@ As I build some portfolio projects, I'll keep adding them below:
 
 ## My Projects
 
+### [SMSpotifY](https://github.com/SMSpotifY/SMSpotifY)
+
+Before Spotify added this feature natively, I craved a way to let my friends queue songs on my spotify when throwing dinner parties. SMSpotifY was my answer.
+
 ### Advent of Code
 
 Rust: https://github.com/saramaebee/advent_of_code
