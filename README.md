@@ -62,6 +62,8 @@ I think this is a good way for me to understand what I don't know better, or rat
 
 #### Algebraic Effects
 - fused-effects
+- Eff
+- Koka
 
 ### General Nerd Stuff
 
