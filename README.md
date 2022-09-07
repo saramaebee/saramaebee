@@ -33,3 +33,19 @@ As I build some portfolio projects, I'll keep adding them below:
   - GMBot has tons of really neat features that help the GameMaker Discord server run as smoothly as it does.
 - [Asarmor](https://github.com/sleeyax/asarmor/)
   - Asarmor is an npm package that allows the blocking of extraction for Electron Asar archives. I did the TypeScript conversion
+
+## Living list of [Things I don't Know](https://overreacted.io/things-i-dont-know-as-of-2018/)
+
+I think this is a good way for me to understand what I don't know better, or rather what I need to target my learning on. It isn't a complete list. The header isn't necessarily something I don't know, but rather a category. Note to Sara: Check Zotero for resources, you've probably saved some relevant ones in your Unfiled Items :) 
+
+### Containerization
+- Need to learn more about topic in general, rather the application of it than the theory.
+- Kubernetes
+- Docker
+
+### Algebraic Effects
+- fused-effects
+
+### React 
+- Hooks/effects
+- Component lifecycle
