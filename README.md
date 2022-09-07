@@ -13,26 +13,17 @@ As I build some portfolio projects, I'll keep adding them below:
 
 ## My Projects
 
-- [SMSpotifY](https://github.com/SMSpotifY/SMSpotifY) (Python, Flask)
-  - Before Spotify added this feature natively, I craved a way to let my friends queue songs on my spotify when throwing dinner parties. SMSpotifY was my answer.
-- Advent of Code
-  - Rust: https://github.com/saramaebee/advent_of_code
-  - Haskell: https://github.com/saramaebee/aoc2021hs
-- [Quote Generator App](https://quotes.saratonin.dev/)
-  - This was a really fun project, that I completed right after I learned React. I got to learn a lot about the fetch API, and about React obviously!
-- [Markdown Previewer](https://markdown.saratonin.dev/)
-  - Adding on to my React abilities, I decided to make my own markdown viewer using `marked.js`! I put a lot more effort into structuring this project correctly compared to the quote generator, which I'm planning to redo entirely soon.
-- [chromium-pickle-ts](https://github.com/saramaebee/chromium-pickle-ts)
-  - While doing some contracted work that involved the `electron-builder` package source code, I noticed that even though the project was in Typescript, they either _had_ to import [chromium-pickle-ts](https://github.com/electron/node-chromium-pickle-js/) as if it were a JS project, or they didn't feel like writing a declaration file for it (not that I blame them!😛). I figured this would be a fun project, and it was!
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSpotifY&repo=SMSpotifY)](https://github.com/SMSpotifY/SMSpotifY)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=advent_of_code)](https://github.com/saramaebee/advent_of_code)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=free-code-camp-quotes-project)](https://github.com/saramaebee/free-code-camp-quotes-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=free-code-camp-markdown-previewer)](https://github.com/saramaebee/free-code-camp-markdown-previewer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=chromium-pickle-ts)](https://github.com/saramaebee/chromium-pickle-ts)
 
 ## Projects I Contribute(d) to
 
-- [CodeSupport Discord Bot](https://github.com/codesupport/discord-bot)
-  - This Discord bot uses Discord.js and TypeScript. It is a fantastic addition to the CodeSupport Discord Server.
-- [GameMaker Discord Bot](https://christopherwk210.github.io/gm-bot/#/)
-  - GMBot has tons of really neat features that help the GameMaker Discord server run as smoothly as it does.
-- [Asarmor](https://github.com/sleeyax/asarmor/)
-  - Asarmor is an npm package that allows the blocking of extraction for Electron Asar archives. I did the TypeScript conversion
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesupport&repo=discord-bot)](https://github.com/saramaebee/chromium-pickle-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christopherwk210&repo=gm-bot)](https://github.com/christopherwk210/gm-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sleeyax&repo=asarmor)](https://github.com/sleeyax/asarmor)
 
 ## Living list of [Things I don't Know](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
