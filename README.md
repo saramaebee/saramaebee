@@ -38,14 +38,44 @@ As I build some portfolio projects, I'll keep adding them below:
 
 I think this is a good way for me to understand what I don't know better, or rather what I need to target my learning on. It isn't a complete list. The header isn't necessarily something I don't know, but rather a category. Note to Sara: Check Zotero for resources, you've probably saved some relevant ones in your Unfiled Items :) 
 
-### Containerization
+### Web Dev
+- CORS (I run into the errors and I can usually fix them with a quick google to remind myself, but I could do better)
+- Sockets (I _think_ they aren't necessarily exclusive to webdev, but that's the context in which I've typically encountered them
+- Reactive programming/rxjs
+
+#### React 
+- Hooks/effects
+- Component lifecycle
+
+### Languages
+
+#### Rust
+- I'd love to get into writing some embedded software in Rust
+
+#### Swift
+- Just this
+
+#### JavaScript/TypeScript
+- Generator functions
+- Intricacies/fine print of prototypal inheritance and its implementation in JS
+
+### Development Theory
+
+#### Algorithms
+- I have decent problem solving skills, but there are numerous CS algorithms that have useful applications, many of which I'm sure I could have used at some point in the past. I'd love to get a [black-boxed](https://www.youtube.com/watch?v=RDzsrmMl48I) understanding of them
+
+#### Containerization
 - Need to learn more about topic in general, rather the application of it than the theory.
 - Kubernetes
 - Docker
 
-### Algebraic Effects
+#### Algebraic Effects
 - fused-effects
 
-### React 
-- Hooks/effects
-- Component lifecycle
+### General Nerd Stuff
+
+#### Linux
+- `bash`
+  - I can navigate the terminal just fine and am more than capable of working in a CLI-only environment, but any scripting I do relies on Python typically. I'd like to become more proficient in bash just to make my life easier
+- Arch
+  - I did ok using debian, and managed to do most stuff fine, but I would very much like to run through setting up Arch and using it for a bit eventually. I want to have a better understanding of a lot of the stuff debian made easier for me.
