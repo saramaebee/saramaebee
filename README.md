@@ -18,12 +18,15 @@ As I build some portfolio projects, I'll keep adding them below:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=free-code-camp-quotes-project)](https://github.com/saramaebee/free-code-camp-quotes-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=free-code-camp-markdown-previewer)](https://github.com/saramaebee/free-code-camp-markdown-previewer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=chromium-pickle-ts)](https://github.com/saramaebee/chromium-pickle-ts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saramaebee&repo=mod-bot)](https://github.com/saramaebee/mod-bot)
 
 ## Projects I Contribute(d) to
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codesupport&repo=discord-bot)](https://github.com/saramaebee/chromium-pickle-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=christopherwk210&repo=gm-bot)](https://github.com/christopherwk210/gm-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sleeyax&repo=asarmor)](https://github.com/sleeyax/asarmor)
+
+
 
 ## Living list of [Things I don't Know](https://overreacted.io/things-i-dont-know-as-of-2018/)
 
