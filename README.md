@@ -36,6 +36,7 @@ I think this is a good way for me to understand what I don't know better, or rat
 - CORS (I run into the errors and I can usually fix them with a quick google to remind myself, but I could do better)
 - Sockets (I _think_ they aren't necessarily exclusive to webdev, but that's the context in which I've typically encountered them
 - Reactive programming/rxjs
+- Polyfills (What on earth are they??)
 
 #### React 
 - Hooks/effects
