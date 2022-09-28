@@ -9,8 +9,6 @@ I'm also super lucky to be a part of the moderation team for [CodeSupport](https
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saramaebee)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramaebee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-As I build some portfolio projects, I'll keep adding them below:
-
 ## My Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSpotifY&repo=SMSpotifY)](https://github.com/SMSpotifY/SMSpotifY)
@@ -44,6 +42,10 @@ I think this is a good way for me to understand what I don't know better, or rat
 
 ### Languages
 
+#### Python
+- WSGI/ASGI
+- Asynchronous programming in Python
+
 #### Rust
 - I'd love to get into writing some embedded software in Rust
 
@@ -75,4 +77,6 @@ I think this is a good way for me to understand what I don't know better, or rat
 - `bash`
   - I can navigate the terminal just fine and am more than capable of working in a CLI-only environment, but any scripting I do relies on Python typically. I'd like to become more proficient in bash just to make my life easier
 - Arch
-  - I did ok using debian, and managed to do most stuff fine, but I would very much like to run through setting up Arch and using it for a bit eventually. I want to have a better understanding of a lot of the stuff debian made easier for me.
+  - I did ok using debian, and managed to do most stuff fine, but I would very much like to run through setting up Arch and using it for a bit eventually.
+- systemctl
+I want to have a better understanding of a lot of the stuff debian made easier for me.
